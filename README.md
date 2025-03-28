@@ -7,9 +7,7 @@
 https://github.com/Thousand-Dust/GG-CustomizeFunction-101
 代码不同但函数库效果是一样的
 
-# 函数使用教程
-函数教程 CSDN：https://blog.csdn.net/qq_45925230/article/details/108716660
-其他平台暂无
+## [函数文档](DrawGGDoc.md)
 
 # 给其他gg添加此函数库教程
 视频录制者文艺：https://b23.tv/LcXSQap
