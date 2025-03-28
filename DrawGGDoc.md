@@ -454,6 +454,6 @@ print("屏幕的高为:"..wh[2])
 
 ## 源码和成品
 以上就是全部内容了，项目源码地址如下：
-gg96版：https://github.com/Thousand-Dust/GG-CustomizeFunction
-gg101版：https://github.com/Thousand-Dust/GG-CustomizeFunction-101
+gg96版：https://github.com/gnahz77/GG-CustomizeFunction
+gg101版：https://github.com/gnahz77/GG-CustomizeFunction-101
 成品下载地址也在里面
